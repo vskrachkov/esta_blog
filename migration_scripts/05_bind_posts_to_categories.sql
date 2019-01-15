@@ -1,0 +1,1 @@
+-- bind categories to posts (terms to posts)
